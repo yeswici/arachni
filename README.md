@@ -1,6 +1,6 @@
 # docker_arachni
 
-### Welcome [Arachni](https://github.com/Arachni/arachni) Docker
+### Welcome DevSecOps PenTest (https://github.com/Arachni/arachni) Docker
 
 
 #### Usage Samples
@@ -8,7 +8,7 @@
 - run docker with SSH2 enabled
 
 ```sh
-docker run -d -p 222:22 -p 7331:7331 -p 9292:9292 --name arachni arachni/arachni:latest
+docker run -d -p 222:22 -p 7331:7331 -p 9292:9292 --name pentest pentest
 ```
 then you can use
 ```sh
