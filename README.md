@@ -1,6 +1,6 @@
 # docker_arachni
 
-### Welcome DevSecOps PenTest (https://github.com/Arachni/arachni) Docker
+### Welcome DevSecOps PenTest Docker
 
 
 #### Usage Samples
